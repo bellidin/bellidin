@@ -1,4 +1,4 @@
-- 👋 Oii, eu sou a Isabelli
+👋 Oii, eu sou a Isabelli
 - 16 anos
 - SP/Brasil
 - Cursando desenvolvimento de Sistemas (Sesi/Senai)
